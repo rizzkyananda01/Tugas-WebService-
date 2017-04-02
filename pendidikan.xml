@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE loginstaffpendidikan SYSTEM "loginstaffpendidikan.dtd">
+<loginstaffpendidikan>
+	<dosen>
+		<namadosen>Muhammad</namadosen>
+		<nikdosen>1145463</nikdosen>
+		<alamat>Sarijadi Raya</alamat>
+		<kota>Bandung</kota>
+		<jk>Laki-Laki</jk>
+		<agama>Islam</agama>
+		<pekerjaan>dosen</pekerjaan>
+		<tl>Semarang</tl>
+		<kewarganegaraan>Indonesia</kewarganegaraan>
+		<tahunkerja>2010</tahunkerja>
+	</dosen>
+	
+	<mahasiswa>
+		<namamahasiswa>Rizzky</namamahasiswa>
+		<alamat>bandung</alamat>
+		<kontak>082316316842</kontak>
+		<jk>laki-laki</jk>
+		<agama>islam</agama>
+		<status>mahasiswa</status>
+		<tl>sorong</tl>
+		<email>rizzky@gmail.com</email>
+		<umur>18 th</umur>
+		<jurusan>Teknik Informatika</jurusan>
+	</mahasiswa>
+	
+	<teknisi>
+		<namateknisi>Eka Pratama Putra</namateknisi>
+		<alamat>Geger kalong</alamat>
+		<kontak>085237384625</kontak>
+		<jk>laki-laki</jk>
+		<agama>islam</agama>
+		<pekerjaan>staff teknisi</pekerjaan>
+		<tl>makassar</tl>
+		<email>ekapratamaputra05@gmail.com</email>
+		<umur>27 th</umur>
+		<jabatan>teknisi</jabatan>
+	</teknisi>
+	
+	<satpam>
+		<nama>Roy</nama>
+		<alamat>sarijadi</alamat>
+		<kontak>082314315234</kontak>
+		<jk>laki-laki</jk>
+		<agama>islam</agama>
+		<pekerjaan>satpam</pekerjaan>
+		<tl>bandung</tl>
+		<email>roy@gmail.com</email>
+		<umur>29 th</umur>
+		<jabatan>satpam</jabatan>
+	</satpam>
+	
+	<pemilikkantin>
+		<nama>Yunita</nama>
+		<alamat>sariasih</alamat>
+		<kontak>082785635225</kontak>
+		<jk>laki-laki</jk>
+		<agama>islam</agama>
+		<pekerjaan>pengusaha</pekerjaan>
+		<tl>bandung</tl>
+		<umur>35 th</umur>
+		<hobi>memasak</hobi>
+		<beratbadan>75 kg</beratbadan>
+	</pemilikkantin>
+</loginstaffpendidikan>
